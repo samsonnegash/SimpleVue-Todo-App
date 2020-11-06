@@ -28,4 +28,9 @@ STEPS TO USE
 npm run dev<b/>
   also use # build for production with minification
 npm run build
+  
+  
+  ![UI](https://user-images.githubusercontent.com/56466940/98340613-ac7e5400-201e-11eb-80cb-1767b8d813a6.png)
+  
+  
   #ENJOY IT
